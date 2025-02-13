@@ -1,3 +1,3 @@
 # Laboratorio-Intermedio
 
-#lejandro Cifuentes* and Kenet Adrián Martínez Moya
+Alejandro Cifuentes* and Kenet Adrián Martínez Moya
